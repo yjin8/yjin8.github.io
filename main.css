@@ -64,9 +64,9 @@ section .row img {
   width: 100%;
 }
 
-.image-container {
-  overflow: hidden;
-  display: block;
+section .row .col-sm-6 img{
+  max-width: 1em;
+  max-height: 2em;
 }
 
 .col-md-6 {
