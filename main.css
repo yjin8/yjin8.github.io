@@ -64,6 +64,11 @@ section .row img {
   width: 100%;
 }
 
+.image-container {
+  overflow: hidden;
+  display: block;
+}
+
 .col-md-6 {
   margin: 0 0 30px;
 }
