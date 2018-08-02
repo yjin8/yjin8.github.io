@@ -51,8 +51,12 @@ header p {
   color: #fff;
 }
 
-article {
-  display: block;
+#aboutme {
+  border: 2px solid #fff;
+  margin: 2px;
+  text-align: center;
+  padding: 30px;
+  
 }
 
 section .row img {
