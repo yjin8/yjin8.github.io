@@ -64,11 +64,6 @@ section .row img {
   width: 100%;
 }
 
-section .row .col-sm-6 img{
-  max-width: 1em;
-  max-height: 2em;
-}
-
 .col-md-6 {
   margin: 0 0 30px;
 }
